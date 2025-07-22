@@ -1,4 +1,4 @@
-# 💩 Poop Sound Tracker
+# 💩 Poop App
 
 **"Was it a good splash or a sloppy mess?"**  
 A fun and quirky mobile application that listens, analyzes, and scores your poop sounds — giving you humorous or health-oriented feedback.
